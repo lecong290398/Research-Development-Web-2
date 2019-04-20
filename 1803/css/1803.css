@@ -1,4 +1,4 @@
-.F4_15 {
+.type-1803 {
   text-align: center;
   background-attachment: fixed;
   background-image: url(../images/bg-2.jpg);
@@ -6,13 +6,13 @@
   background-size: cover;
   padding: 90px 0 90px 0;
 }
-.F4_15 hr {
+.type-1803 hr {
   width: 30%;
 }
-.F4_15 h3 {
+.type-1803 h3 {
   color: #fff;
 }
-.F4_15 .circle {
+.type-1803 .circle {
   background-color: #FAB702;
   width: 200px;
   height: 200px;
@@ -30,7 +30,7 @@
   margin: 40px;
   border: 2px solid #FAB702;
 }
-.F4_15 a:hover {
+.type-1803 a:hover {
   color: #FAB702;
   border-color: #222;
   background: #222;
@@ -38,10 +38,10 @@
   outline: none;
   text-decoration: none;
 }
-.F4_15 .animated-top:hover {
+.type-1803 .animated-top:hover {
   padding-bottom: 20px;
 }
-.F4_15 .tab button {
+.type-1803 .tab button {
   background-color: inherit;
   float: left;
   border: none;
@@ -51,15 +51,15 @@
   transition: 0.3s;
   font-size: 17px;
 }
-.F4_15 .tab button.active {
+.type-1803 .tab button.active {
   background-color: #ccc;
 }
-.F4_15 .tabcontent {
+.type-1803 .tabcontent {
   display: none;
   padding: 6px 12px;
   border-top: none;
 }
-.F4_15 .tabcontent p {
+.type-1803 .tabcontent p {
   background: 0;
   padding: 0;
   border: none;
