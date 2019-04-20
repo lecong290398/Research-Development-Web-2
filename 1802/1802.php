@@ -13,23 +13,22 @@
         require_once($dir_block . '/libs/lessc.inc.php');
     }
     $less = new lessc;
-    $less->compileFile('less/1816.less', 'css/1816.css');
+    $less->compileFile('less/1802.less', 'css/1802.css');
 ?>
-<html>
+<html lang="en">
     <head>
-        <title>1816</title>
+        <title>1802</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Basic usage demo">
         <meta name="author" content="David Deutsch">
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path ?>/css/1816.css" rel="stylesheet" type="text/css"/>
-        <script src="<?php echo $url_path ?>/js/jquery-2.2.0.min.js" type="text/javascript"></script>
-        <script src="<?php echo $url_path ?>/js/jquery-plugin-collection.js"></script>
-        <script src="<?php echo $url_path ?>/js/1816.js"></script>
+        <link href="<?php echo $url_path ?>/css/1802.css" rel="stylesheet" type="text/css"/>
+        <script src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js" ></script>
+        <script src="<?php echo $url_path ?>/js/1802.js"></script>
     </head>
     <body>
-        <?php include './1816-content.php'; ?>
+        <?php include './1802-content.php'; ?>
     </body>
 </html>

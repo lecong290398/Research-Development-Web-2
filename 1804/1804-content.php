@@ -12,7 +12,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 
-<div class="type-1816">
+<div class="type-1804">
     <section>
         <div class="row">
             <div class="col-md-12">
