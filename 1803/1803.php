@@ -13,7 +13,7 @@
         require_once($dir_block . '/libs/lessc.inc.php');
     }
     $less = new lessc;
-    $less->compileFile('less/F4_01.less', 'css/F4_01.css');
+    $less->compileFile('less/1803.less', 'css/1803.css');
 ?>
 <html lang="zxx">
     <head>
@@ -22,13 +22,13 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Basic usage demo">
         <meta name="author" content="David Deutsch">
-        <link href="css/F4_01.css" rel="stylesheet" type="text/css"/>
+        <link href="css/1803.css" rel="stylesheet" type="text/css"/>
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <script src="js/jquery-2.1.4.min.js"></script>
-        <script src="js/F4_01.js" ></script>
+        <script src="js/1803.js" ></script>
     </head>
     <body>
-        <?php include './F4_01-content.php'; ?>
+        <?php include './1803-content.php'; ?>
     </body>
 </html>
