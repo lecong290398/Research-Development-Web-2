@@ -12,7 +12,7 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
 
-<div class="type-1837">
+<div class="type-1821">
     <div class="container mb-4">
         <div class="row">
             <div class="col-12">
@@ -52,11 +52,11 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
             </div>
             <div class="col mb-2" style="float: right">
-                <button type="button" class="btn btn-default">
+                <button type="button" class="btn btn-success">
                     Update cart
                 </button>
 
-                <button type="button" class="btn btn-success">
+                <button type="button" class="btn btn-checkout">
                     Checkout
                 </button>
             </div>

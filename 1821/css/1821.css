@@ -1,0 +1,19 @@
+.type-1821 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+.type-1821 .btn-danger {
+  background-color: #FAB702;
+  color: #fff;
+  padding: 0 2px 0 2px;
+  border: none;
+}
+.type-1821 .btn-danger:hover {
+  background-color: #555555;
+}
+.type-1821 .btn-success {
+  background-color: #FAB702;
+  border: none;
+}
+.type-1821 .btn-success:hover {
+  background-color: #555555;
+}
