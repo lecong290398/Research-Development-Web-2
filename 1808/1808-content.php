@@ -11,7 +11,7 @@ $url_path = $url_host . $matches[1][0];
 
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-<div class="F4_01">
+<div class="type-1808">
             <div class="col-md-5 background_4">
                 
             </div>  
