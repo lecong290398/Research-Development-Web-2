@@ -13,22 +13,20 @@
         require_once($dir_block . '/libs/lessc.inc.php');
     }
     $less = new lessc;
-    $less->compileFile('less/1823.less', 'css/1823.css');
+    $less->compileFile('less/1824.less', 'css/1824.css');
 ?>
 <html lang="en">
     <head>
-        <title>1823</title>
+        <title>1824</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Basic usage demo">
-        <meta name="author" content="David Deutsch">
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path ?>/css/1823.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo $url_path ?>/css/1824.css" rel="stylesheet" type="text/css"/>
         <script src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js"></script>
-        <script src="<?php echo $url_path ?>/js/1823.js"></script>
+        <script src="<?php echo $url_path ?>/js/1824.js"></script>
     </head>
     <body>
-        <?php include './1823-content.php'; ?>
+        <?php include './1824-content.php'; ?>
     </body>
 </html>
