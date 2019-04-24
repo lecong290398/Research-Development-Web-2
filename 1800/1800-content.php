@@ -13,7 +13,7 @@
                      <span class="icon-bar"></span>
                      </button>
                      <a class="navbar-brand" href="#">
-                     <img src="assets/images/logo_0.png" alt="">
+                     <img src="images/logo_0.png" alt="">
                      </a>
                   </div>
                   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations="fadeInUp">
