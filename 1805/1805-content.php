@@ -16,9 +16,9 @@
                         <div class="separator"><span><i class="fa fa-circle"></i></span></div>
                     </div>
 
-                    <div class=" row">
-                        <div class="owl-carousel1">
-                            <div class="col-md-6 col-xs-6">
+                    <div class="row swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class=" swiper-slide">
                                 <div class="item">
                                     <div class="testimonials-block_i">
                                         <div class="testimonials-block_t"> <span></span>
@@ -30,7 +30,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-xs-6">
+                            <div class=" swiper-slide">
                                 <div class="item">
                                     <div class="testimonials-block_i">
                                         <div class="testimonials-block_t"> <span></span>
@@ -42,7 +42,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-xs-6">
+                            <div class=" swiper-slide">
                                 <div class="item">
                                     <div class="testimonials-block_i">
                                         <div class="testimonials-block_t"> <span></span>
@@ -54,7 +54,7 @@
                                     </div>
                                 </div>
                             </div>
-                             <div class="col-md-6 col-xs-6">
+                             <div class=" swiper-slide">
                                 <div class="item">
                                     <div class="testimonials-block_i">
                                         <div class="testimonials-block_t"> <span></span>
@@ -66,7 +66,10 @@
                                     </div>
                                 </div>
                             </div>
+                           
                         </div>
+                        
+                        <div class="swiper-pagination"></div>
                         
 
                     </div>
