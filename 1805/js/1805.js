@@ -1,32 +1,6 @@
 $(document).ready(function () {
-     /*$('.owl-carousel').owlCarousel({
-            loop:true,
-            margin:30,
-            nav:true,
-            autoplay:true,
-            autoplayTimeout:6500,
-            smartSpeed:1200,
-            autoHeight: true,
-            //navText: ['<i class="fa fa-angle-left" aria-hidden="true"></i>', '<i class="fa fa-angle-right" aria-hidden="true"></i>'],
-            responsive:{
-                0:{
-                    items:1
-                },
-                600:{
-                    items:2
-                },
-                1000:{
-                    items:2
-                }
-            }
-        });*/
-       /* $('.owl-carousel1').slick({
-        autoplaySpeed: 3000,
-        autoplay: true,
-        dots: true,
-        
-    });*/
-    $('.owl-carousel1').slick({
+     
+    /*$('.owl-carousel1').slick({
         dots: true,
         infinite: false,
         speed: 300,
@@ -60,5 +34,31 @@ $(document).ready(function () {
           // settings: "unslick"
           // instead of a settings object
         ]
+      });*/
+      var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 2,
+        spaceBetween: 30,
+        slidesPerGroup: 2,
+        loop: true,
+        loopFillGroupWithBlank: true,
+        autoplay: {
+          delay: 3000,
+        },
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+        breakpoints: {
+          // when window width is >= 320px
+          992: {
+            slidesPerView:1,
+            slidesPerGroup: 1,
+          },
+          
+        },
       });
 });

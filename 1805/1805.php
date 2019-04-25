@@ -25,9 +25,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link rel="stylesheet" href="css/slick-theme.css">
+        <link rel="stylesheet" href="css/swiper.min.css">
         <script src="js/jquery-2.1.4.min.js"></script>
-        <script src="js/slick.min.js"></script>
+        <script src="js/swiper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
 		<script src="js/1805.js"></script>
 		<link href="css/1805.css" rel="stylesheet" type="text/css"/>
