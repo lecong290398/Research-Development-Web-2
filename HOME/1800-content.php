@@ -43,7 +43,7 @@
                            <ul class="dropdown-menu dropdownhover-bottom">
                               <li><a href="#">Shop 1</a>
                               </li>
-                              <li><a href="#">Shop 2</a>
+                             <li><a href="../CART/cart.php">SHOPPING CART</a>
                               </li>
                               <li><a href="#">Shop 4</a>
                               </li>                 
