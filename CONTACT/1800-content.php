@@ -32,18 +32,8 @@
                            </ul>
                         </li>
                         <li class="dropdown">
-                           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services </a>
-                           <ul class="dropdown-menu dropdownhover-bottom">
-                              <li><a href="#">Services</a>
-                              </li>
-                              <li><a href="#">Services</a>
-                              </li>
-                              <li><a href="#">Services</a>
-                              </li>
-                              <li><a href="#">Services</a>
-                              </li>
-                             
-                           </ul>
+                            <a href="../SERVICES/services.php" >Services </a>
+                          
                         </li>
                         <li>
                            <a href="#">Blog</a>
