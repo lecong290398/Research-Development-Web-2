@@ -1,4 +1,4 @@
-<header class="type-1800">
+<div class="type-1800">
 <div class="main-herader">
    <div class="header-navbar fixed-header" >
       <div class="container">
@@ -77,4 +77,4 @@
       </div>
    </div>
 </div>
-</header>   
+</div>   

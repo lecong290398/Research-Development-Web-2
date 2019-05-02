@@ -30,7 +30,7 @@ $less->compileFile('less/1806.less', 'css/1806.css');
 ?>
 <!DOCTYPE html>
 
-<html lang='en'>
+<html lang='zxx'>
     <head>
         <title>HOME</title>
         <meta charset="UTF-8">
@@ -69,19 +69,17 @@ $less->compileFile('less/1806.less', 'css/1806.css');
 
             <?php $dir_block . include'1801-content.php'; ?>
         </header>
+        
+        
+        <?php $dir_block . include'1802-content.php'; ?>
 
-        <section>
-            <article>
-                <?php $dir_block . include'1802-content.php'; ?>
+        <?php $dir_block . include'1803-content.php'; ?>
 
-                <?php $dir_block . include'1803-content.php'; ?>
+        <?php $dir_block . include'1804-content.php'; ?>
 
-                <?php $dir_block . include'1804-content.php'; ?>
-
-                <?php $dir_block . include'1805-content.php'; ?>
-
-            </article>
-        </section>
+        <?php $dir_block . include'1805-content.php'; ?>
+        
+        
         <footer>
             <?php $dir_block . include'1806-content.php'; ?>
         </footer>
