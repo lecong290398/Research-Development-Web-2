@@ -20,7 +20,7 @@
                      <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown active">
                             <a href="../HOME/home.php">Home </a>
-                        </li>
+                           
                         <li><a href="#">About</a></li>
                         <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects </a>
@@ -32,10 +32,11 @@
                            </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#">Services </a>
+                            <a href="../SERVICES/services.php" >Services </a>
+                          
                         </li>
                         <li>
-                          <a href="../BLOG/blog.php">Blog</a>
+                           <a href="#">Blog</a>
                         </li>
                         <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shop </a>
