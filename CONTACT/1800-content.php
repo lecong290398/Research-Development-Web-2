@@ -1,4 +1,4 @@
-<div class="type-1800">
+<header class="type-1800">
 <div class="main-herader">
    <div class="header-navbar fixed-header" >
       <div class="container">
@@ -19,8 +19,8 @@
                   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations="fadeInUp">
                      <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown active">
-                           <a href="#">Home </a>
-                        </li>
+                            <a href="../HOME/home.php">Home </a>
+                           
                         <li><a href="#">About</a></li>
                         <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects </a>
@@ -71,4 +71,4 @@
       </div>
    </div>
 </div>
-</div>   
+</header>   
