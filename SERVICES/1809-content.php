@@ -17,9 +17,9 @@ $url_path = str_replace('\\', '/', $url_path);
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="mt-0 mb-3 text-white">ABOUT US</h2>
+                    <h2 class="mt-0 mb-3 text-white">SERVICES</h2>
                     <div class="breadcrumbs">
-                        <p class="mb-0 text-white"><a class="text-yellow" href="#">Home</a><span class="text-success"> / ABOUT US</span></p>
+                        <p class="mb-0 text-white"><a class="text-yellow" href="#">Home</a><span class="text-success"> / SERVICES</span></p>
                     </div>
                 </div>
             </div>
