@@ -763,7 +763,7 @@ $(document).ready(function () {
                     THEMEMASCOT.widget.TM_instagramFeed();
                     THEMEMASCOT.widget.TM_jflickrfeed();
                     THEMEMASCOT.widget.TM_accordion_toggles();
-                    THEMEMASCOT.widget.TM_tooltip();
+                    //THEMEMASCOT.widget.TM_tooltip();
                     //THEMEMASCOT.widget.TM_countDownTimer();
                 }, 0);
 
@@ -1152,9 +1152,9 @@ $(document).ready(function () {
             /* ---------------------------------------------------------------------- */
             /* ------------------------------- tooltip  ----------------------------- */
             /* ---------------------------------------------------------------------- */
-            TM_tooltip: function () {
+            /*TM_tooltip: function () {
                 $('[data-toggle="tooltip"]').tooltip();
-            },
+            },*/
 
             /* ---------------------------------------------------------------------- */
             /* ---------------------------- Twitter Feed  --------------------------- */
@@ -2268,7 +2268,7 @@ $(document).ready(function () {
             init: function () {
                 $window.on('scroll', function () {
                     THEMEMASCOT.header.TM_scroolToTop();
-                    THEMEMASCOT.header.TM_activateMenuItemOnReach();
+                    //THEMEMASCOT.header.TM_activateMenuItemOnReach();
                     THEMEMASCOT.header.TM_topnavAnimate();
                 });
             }
