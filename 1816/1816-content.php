@@ -45,8 +45,8 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                         <div class="col-md-6">
                             <div class="img-list">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
                             </div>
 
                         </div>
@@ -64,8 +64,8 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                         <div class="col-md-6">
                             <div class="img-list">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
                             </div>
 
                         </div>
@@ -83,8 +83,8 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                         <div class="col-md-6">
                             <div class="img-list">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
                             </div>
 
                         </div>
@@ -102,8 +102,8 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                         <div class="col-md-6">
                             <div class="img-list">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
-                                <img src="images/p3_a.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
+                                <img src="images/subheader.jpg" alt="" class="img-responsive">
                             </div>
 
                         </div>

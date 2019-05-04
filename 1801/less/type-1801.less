@@ -28,6 +28,7 @@
           -o-transition-property: opacity;
           transition-property: opacity;
         }
+
     .carousel-fade .carousel-inner .active {
             opacity: 1;
         }
@@ -157,7 +158,11 @@
         -ms-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
     }
-    
+    @media only screen and (max-width: 501px) {
+         .carousel-caption{
+            padding: 0 50px !important;
+         }
+    }
 
 
 }

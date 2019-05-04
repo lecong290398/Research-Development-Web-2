@@ -140,6 +140,11 @@
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+@media only screen and (max-width: 501px) {
+  .type-1801 .carousel-caption {
+    padding: 0 50px !important;
+  }
+}
 .slide-1 {
   background: url(../images/bg-2.jpg);
   background-repeat: no-repeat;

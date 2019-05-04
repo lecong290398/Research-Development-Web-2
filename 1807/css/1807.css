@@ -13,6 +13,7 @@
 }
 .block-custom .container-4 .de-team-list .team-pic img {
   width: 100%;
+  height: 100%;
 }
 .block-custom .container-4 .de-team-list .team-desc {
   transition: all ease 2s;
