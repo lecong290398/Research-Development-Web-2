@@ -33,20 +33,20 @@ $url_path = str_replace('\\', '/', $url_path);
                                     </div>
                                 </li>
                                 <li>
-                                    <img  class="img-responsive" src="images/2.jpg"  alt="product" title="product">
+                                    <img  class="img-responsive" src="images/18.jpg"  alt="product" title="product">
                                     <div class="text">
-                                       <a href="#">Classic Circular Table</a>
+                                       <a href="#">Decorative Fabric Sofa</a>
                                         <div class="price">
-                                            $160.00
+                                            $180.00
                                         </div>
                                     </div>
                                 </li>
                                 <li>
-                                    <img  class="img-responsive" src="images/2.jpg"  alt="product" title="product">
+                                    <img  class="img-responsive" src="images/17.jpg"  alt="product" title="product">
                                     <div class="text">
-                                       <a href="#">Classic Circular Table</a>
+                                       <a href="#">Classic Wood Chair</a>
                                         <div class="price">
-                                            $160.00
+                                            $120.00
                                         </div>
                                     </div>
                                 </li>

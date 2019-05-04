@@ -32,7 +32,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     <!-- Portfolio Item Start -->
                     <div class="gallery-item design">
                         <div class="thumb">
-                            <img class="img-fullwidth" src="<?php echo $url_path ?>/images/p1.jpg" alt="project">
+                            <img class="img-fullwidth" src="images/p1.jpg" alt="project">
                             <div class="overlay-shade"></div>
                             <div class="text-holder">
                                 <div class="title text-center">Eco Green Interior</div>

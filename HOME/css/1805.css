@@ -11,6 +11,9 @@
   background-size: cover;
   position: relative;
 }
+.type-1805 .testimonials .swiper-container {
+  height: 300px;
+}
 .type-1805 .testimonials .swiper-container .swiper-pagination-bullet-active {
   background: #FAB702;
 }

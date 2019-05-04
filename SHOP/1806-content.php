@@ -28,7 +28,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 <h3 class="latestBlog">Latest Blog</h3>
                 <ul>
                     <li class="item">
-                        <a href="content/5-things-take-room-good-great.html">5 Things That Take a Room from Good to Great</a>
+                        <a href="#">5 Things That Take a Room from Good to Great</a>
 
                     </li>
                     <li class="item">
@@ -38,13 +38,13 @@ $url_path = str_replace('\\', '/', $url_path);
 
                     </li>
                     <li class="item">
-                        <a href="content/9-unique-and-unusual-ways-display-your-tv.html">
+                        <a href="#">
                             9 Unique and Unusual Ways to Display Your TV
                         </a>
 
                     </li>
                     <li class="item">
-                        <a href="content/how-make-huge-impact-multiples.html">
+                        <a href="#">
                             How to Make a Huge Impact With Multiples
                         </a>
 

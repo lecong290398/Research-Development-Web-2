@@ -29,7 +29,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                     </div>
                     <div class="de-team-list">
-                        <div class="team-pic"><img src="images/team_pic_1.jpg" class="img-responsive" alt="" title="" style="margin-top: 0px;"></div>
+                        <div class="team-pic"><img src="images/team_pic_2.jpg" class="img-responsive" alt="" title="" style="margin-top: 0px;"></div>
                         <div class="team-desc " style=" top: 284px;">
                             <h3>John Smith</h3>
                             <p class="lead">Project Manager</p>
@@ -39,7 +39,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                     </div>
                     <div class="de-team-list">
-                        <div class="team-pic"><img src="images/team_pic_1.jpg" class="img-responsive" alt="" title="" style="margin-top: 0px;"></div>
+                        <div class="team-pic"><img src="images/team_pic_3.jpg" class="img-responsive" alt="" title="" style="margin-top: 0px;"></div>
                         <div class="team-desc " style=" top: 284px;">
                             <h3>John Smith</h3>
                             <p class="lead">Project Manager</p>
@@ -49,7 +49,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                     </div>
                     <div class="de-team-list">
-                        <div class="team-pic"><img src="images/team_pic_1.jpg" class="img-responsive" alt="" title="" style="margin-top: 0px;"></div>
+                        <div class="team-pic"><img src="images/team_pic_4.jpg" class="img-responsive" alt="" title="" style="margin-top: 0px;"></div>
                         <div class="team-desc " style=" top: 284px;">
                             <h3>John Smith</h3>
                             <p class="lead">Project Manager</p>

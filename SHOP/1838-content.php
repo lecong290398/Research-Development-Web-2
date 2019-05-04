@@ -20,7 +20,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="col-md-4 col-sm-6">
                             <div class="item">
                                 <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
+                                    <img src="images/item-5.jpg" alt="" class="img-responsive">
                                 </div>
                                 <div class="fivestar-item">
                                     <i class="fa fa-star"></i>
@@ -29,9 +29,9 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
                                 </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
+                               <h4><a href="#">Artistic Wood Hanger</a></h4>
                                 <div class="price-item">
-                                    $150.00
+                                    $160.00
                                 </div>
                                 <div class="btn-item">
                                     <button class="btn-add-cart">Add to cart</button>
@@ -53,7 +53,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                 </div>
                                <h4><a href="#">Classic Circular Table</a></h4>
                                 <div class="price-item">
-                                    $150.00
+                                    $160.00
                                 </div>
                                 <div class="btn-item">
                                     <button class="btn-add-cart">Add to cart</button>
@@ -64,7 +64,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="col-md-4 col-sm-6">
                             <div class="item">
                                 <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
+                                    <img src="images/11.jpg" alt="" class="img-responsive">
                                 </div>
                                 <div class="fivestar-item">
                                     <i class="fa fa-star"></i>
@@ -73,9 +73,9 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
                                 </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
+                               <h4><a href="#">Classic Colorful Chair</a></h4>
                                 <div class="price-item">
-                                    $150.00
+                                    $180.00
                                 </div>
                                 <div class="btn-item">
                                     <button class="btn-add-cart">Add to cart</button>
@@ -86,7 +86,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div class="col-md-4 col-sm-6">
                             <div class="item">
                                 <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
+                                    <img src="images/item-6.jpg" alt="" class="img-responsive">
                                 </div>
                                 <div class="fivestar-item">
                                     <i class="fa fa-star"></i>
@@ -95,9 +95,9 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
                                 </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
+                               <h4><a href="#">Classic Colorful Chair</a></h4>
                                 <div class="price-item">
-                                    $150.00
+                                    $180.00
                                 </div>
                                 <div class="btn-item">
                                     <button class="btn-add-cart">Add to cart</button>
@@ -105,10 +105,10 @@ $url_path = str_replace('\\', '/', $url_path);
                                 
                             </div>
                         </div>
-                         <div class="col-md-4 col-sm-6">
+                        <div class="col-md-4 col-sm-6">
                             <div class="item">
                                 <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
+                                    <img src="images/8.jpg" alt="" class="img-responsive">
                                 </div>
                                 <div class="fivestar-item">
                                     <i class="fa fa-star"></i>
@@ -117,9 +117,9 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
                                 </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
+                               <h4><a href="#">Classic Wood Chair</a></h4>
                                 <div class="price-item">
-                                    $150.00
+                                    $190.00
                                 </div>
                                 <div class="btn-item">
                                     <button class="btn-add-cart">Add to cart</button>
@@ -127,10 +127,10 @@ $url_path = str_replace('\\', '/', $url_path);
                                 
                             </div>
                         </div>
-                         <div class="col-md-4 col-sm-6">
+                        <div class="col-md-4 col-sm-6">
                             <div class="item">
                                 <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
+                                    <img src="images/20.jpg" alt="" class="img-responsive">
                                 </div>
                                 <div class="fivestar-item">
                                     <i class="fa fa-star"></i>
@@ -139,9 +139,9 @@ $url_path = str_replace('\\', '/', $url_path);
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
                                 </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
+                               <h4><a href="#">Decorative Fabric Sofa</a></h4>
                                 <div class="price-item">
-                                    $150.00
+                                    $280.00
                                 </div>
                                 <div class="btn-item">
                                     <button class="btn-add-cart">Add to cart</button>
@@ -149,72 +149,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                 
                             </div>
                         </div>
-                         <div class="col-md-4 col-sm-6">
-                            <div class="item">
-                                <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
-                                </div>
-                                <div class="fivestar-item">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
-                                <div class="price-item">
-                                    $150.00
-                                </div>
-                                <div class="btn-item">
-                                    <button class="btn-add-cart">Add to cart</button>
-                                </div>
-                                
-                            </div>
-                        </div>
-                         <div class="col-md-4 col-sm-6">
-                            <div class="item">
-                                <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
-                                </div>
-                                <div class="fivestar-item">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
-                                <div class="price-item">
-                                    $150.00
-                                </div>
-                                <div class="btn-item">
-                                    <button class="btn-add-cart">Add to cart</button>
-                                </div>
-                                
-                            </div>
-                        </div>
-                         <div class="col-md-4 col-sm-6">
-                            <div class="item">
-                                <div class="images-item">
-                                    <img src="images/2.jpg" alt="" class="img-responsive">
-                                </div>
-                                <div class="fivestar-item">
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                    <i class="fa fa-star"></i>
-                                </div>
-                               <h4><a href="#">Classic Circular Table</a></h4>
-                                <div class="price-item">
-                                    $150.00
-                                </div>
-                                <div class="btn-item">
-                                    <button class="btn-add-cart">Add to cart</button>
-                                </div>
-                                
-                            </div>
-                        </div>
+                        
                         
                         
                         
