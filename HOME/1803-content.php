@@ -18,7 +18,7 @@ $url_path = str_replace('\\', '/', $url_path);
             <hr>
         </div>
         <div class="tab">
-            <div  class="tablinks circle "  style="border: 2px solid #fff; background: none; color: #fff"  onclick="openCity(event, 'Meet')">Meet & Agree</div>
+            <div  class="tablinks circle "    onclick="openCity(event, 'Meet')">Meet & Agree</div>
             <div   class="tablinks circle "  onclick="openCity(event, 'Idea')">Idea & Concept</div>
             <div  class="tablinks circle "   onclick="openCity(event, 'Design')" >Design & Create</div>
             <div  class="tablinks circle "   onclick="openCity(event, 'Build')" >Build & Install</div>
