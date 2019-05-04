@@ -135,17 +135,7 @@ $(document).ready(function () {
                 }
             },
 
-            /* ---------------------------------------------------------------------- */
-            /* ------------------------------ Hash Forwarding  ---------------------- */
-            /* ---------------------------------------------------------------------- */
-            TM_hashForwarding: function () {
-                if (window.location.hash) {
-                    var hash_offset = $(window.location.hash).offset().top;
-                    $("html, body").animate({
-                        scrollTop: hash_offset
-                    });
-                }
-            },
+           
 
             /* ---------------------------------------------------------------------- */
             /* ----------------------- Background image, color ---------------------- */
@@ -2279,7 +2269,7 @@ $(document).ready(function () {
                     THEMEMASCOT.initialize.TM_wow();
                     THEMEMASCOT.widget.TM_twittie();
                     THEMEMASCOT.initialize.TM_preLoaderOnLoad();
-                    THEMEMASCOT.initialize.TM_hashForwarding();
+                   
                     THEMEMASCOT.initialize.TM_parallaxBgInit();
                 }, 0);
                 $window.trigger("scroll");
