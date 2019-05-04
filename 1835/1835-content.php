@@ -18,23 +18,23 @@ $url_path = str_replace('\\', '/', $url_path);
                                 <!-- me art lab slider -->
                                 <div class='carousel-inner '>
                                     <div class='item active'>
-                                        <img src="<?php echo $url_path ?>/img/16.jpg" alt=''id="zoom_05"/>
+                                        <img src="<?php echo $url_path ?>/images/16.jpg" alt=''id="zoom_05"/>
                                     </div>
                                     <div class='item' id="zoom_05">
-                                        <img src="<?php echo $url_path ?>/img/17.jpg" alt='' />
+                                        <img src="<?php echo $url_path ?>/images/17.jpg" alt='' />
                                     </div>
                                     <div class='item'>
-                                        <img src="<?php echo $url_path ?>/img/18.jpg" alt='' />
+                                        <img src="<?php echo $url_path ?>/images/18.jpg" alt='' />
                                     </div>
 
                                     <div class='item'>
-                                        <img src="<?php echo $url_path ?>/img/20.jpg" alt='' id="zoom_05"/>
+                                        <img src="<?php echo $url_path ?>/images/20.jpg" alt='' id="zoom_05"/>
                                     </div>
                                     <div class='item'>
-                                        <img src="<?php echo $url_path ?>/img/16.jpg" alt='' id="zoom_05"/>
+                                        <img src="<?php echo $url_path ?>/images/16.jpg" alt='' id="zoom_05"/>
                                     </div>
                                     <div class='item'>
-                                        <img src="<?php echo $url_path ?>/img/17.jpg" alt='' id="zoom_05"/>
+                                        <img src="<?php echo $url_path ?>/images/17.jpg" alt='' id="zoom_05"/>
                                     </div>
 
                                 </div>
@@ -50,12 +50,12 @@ $url_path = str_replace('\\', '/', $url_path);
 
                             <!-- thumb -->
                             <ol class='carousel-indicators mCustomScrollbar meartlab'>
-                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img src="<?php echo $url_path ?>/img/16.jpg" alt='' /></li>
-                                <li data-target='#carousel-custom' data-slide-to='1'><img src="<?php echo $url_path ?>/img/17.jpg" alt='' /></li>
-                                <li data-target='#carousel-custom' data-slide-to='2'><img src="<?php echo $url_path ?>/img/18.jpg" alt='' /></li>
-                                <li data-target='#carousel-custom' data-slide-to='3'><img src="<?php echo $url_path ?>/img/20.jpg" alt='' /></li>
-                                <li data-target='#carousel-custom' data-slide-to='4'><img src="<?php echo $url_path ?>/img/16.jpg" alt='' /></li>
-                                <li data-target='#carousel-custom' data-slide-to='5'><img src="<?php echo $url_path ?>/img/17.jpg" alt='' /></li>
+                                <li data-target='#carousel-custom' data-slide-to='0' class='active'><img src="<?php echo $url_path ?>/images/16.jpg" alt='' /></li>
+                                <li data-target='#carousel-custom' data-slide-to='1'><img src="<?php echo $url_path ?>/images/17.jpg" alt='' /></li>
+                                <li data-target='#carousel-custom' data-slide-to='2'><img src="<?php echo $url_path ?>/images/18.jpg" alt='' /></li>
+                                <li data-target='#carousel-custom' data-slide-to='3'><img src="<?php echo $url_path ?>/images/20.jpg" alt='' /></li>
+                                <li data-target='#carousel-custom' data-slide-to='4'><img src="<?php echo $url_path ?>/images/16.jpg" alt='' /></li>
+                                <li data-target='#carousel-custom' data-slide-to='5'><img src="<?php echo $url_path ?>/images/17.jpg" alt='' /></li>
                             </ol>
                         </div>  
                     </div>
