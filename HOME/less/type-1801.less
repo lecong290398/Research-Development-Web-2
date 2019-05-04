@@ -19,6 +19,9 @@
  
 
 .type-1801 {
+        .main-container{
+        width: 100%;
+        }
         overflow: hidden;
         .carousel-fade .carousel-inner .item {
             height: 100vh;
@@ -158,7 +161,11 @@
         transition: all 0.3s ease-in-out;
     }
     
-
+   @media only screen and (max-width: 479px) {
+        .carousel-caption {
+            padding: 0 27px!important;
+        }
+    } 
 
 }
     
