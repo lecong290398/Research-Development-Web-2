@@ -1,0 +1,73 @@
+.block-custom {
+  margin-bottom: 60px;
+}
+.block-custom .container-4 .de-team-list {
+  width: 24.5%;
+  margin: 0 2px;
+  float: left;
+  position: relative;
+  overflow: hidden;
+}
+.block-custom .container-4 .de-team-list .team-pic {
+  height: 279px;
+}
+.block-custom .container-4 .de-team-list .team-pic img {
+  width: 100%;
+  height: 100%;
+}
+.block-custom .container-4 .de-team-list .team-desc {
+  transition: all ease 2s;
+  padding: 20px;
+  padding-bottom: 0;
+  position: absolute;
+  z-index: 100;
+  width: 100%;
+  height: 279px;
+  top: 0;
+  background: #111;
+  color: #ccc;
+}
+.block-custom .container-4 .de-team-list .team-desc h3 {
+  color: #fff;
+}
+.block-custom .container-4 .de-team-list .social a {
+  display: inline-block;
+  padding: 0 5px 0 5px;
+  color: #555;
+}
+.block-custom .container-4 .de-team-list .social a:hover {
+  color: #fff;
+}
+.block-custom .container-4 .de-team-list:hover .team-desc {
+  top: 0 !important;
+}
+.block-custom .container-4 .de-team-list .lead {
+  font-size: 14px;
+}
+.block-custom .container-4 .de-team-list .small-border {
+  margin: 15px 0 15px 0;
+  background-color: #FAB702;
+  width: 50px;
+  height: 1px;
+  width: 120px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 992px) {
+  .block-custom .container .col-md-12 {
+    margin-bottom: 30px;
+  }
+  .block-custom .container-4 .de-team-list {
+    width: 49%;
+    float: left;
+    position: relative;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .block-custom .container-4 .de-team-list {
+    width: 100%;
+    float: left;
+    position: relative;
+  }
+}
